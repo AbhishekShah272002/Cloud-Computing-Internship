@@ -12,7 +12,7 @@ This internship focused on hands-on cloud computing using Google Cloud Platform 
 ☁ Cloud Basics
 
 🐳 Docker Containerization
-
+ 
 ⚙ Cloud Automation
 
 🧪 Serverless Functions
